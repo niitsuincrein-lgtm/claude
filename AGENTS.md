@@ -79,6 +79,7 @@ docs/
   tasks.md           実行管理（スプレッドシートの写し＋状態）
   seo.md             キーワード・メタ情報・計測
   open-questions.md  未確定事項・矛盾点（代表に確認すること）
+  studio-status.md   STUDIOの現状（確認日つき）
   copy/              STUDIOに貼る原稿（ページごと）
     top.md
     white.md
