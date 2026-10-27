@@ -118,4 +118,4 @@
 - 対応エリアは今回の代表決定どおり「埼玉県を中心に東京都」。旧サイトの千葉・群馬・栃木・茨城は載せない。ただし「複数物件・法人はエリア外でも相談可」は旧サイトどおり載せる
 - 「完全分解洗浄」「カビまで徹底除去」は「分解し、汚れに合わせた洗剤で洗浄」に言い換えた（見本のとおり）
 - **料金表・お客さまの声：代表承認済み（2026-10-28 0:39）。見本どおり表示して掲載する**
-- **公式LINE：掲載する**（https://page.line.me/466fclqj?oat_content=url&openQrModal=true）。各ページのCONTACT帯とトップのお問い合わせ欄に「LINEで相談する」ボタン。**Instagram は載せない**（WHiTE. の「施工事例はInstagramで」も載せない）
+- **LINE：FRESH. ページのみ**（https://page.line.me/466fclqj?oat_content=url&openQrModal=true は FRESH. 専用）。FRESH. のCONTACT帯に「FRESH. のLINEで相談する」ボタン。トップ・WHiTE.・法人向けページにはLINEを載せない（会社全体の公式LINEは代表が後日作成）。**Instagram は載せない**（WHiTE. の「施工事例はInstagramで」も載せない）
