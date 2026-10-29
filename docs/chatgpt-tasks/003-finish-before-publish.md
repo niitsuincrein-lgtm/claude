@@ -199,3 +199,17 @@
 - 紺の背景（スマホ固定ボタンなど）の上：金 **#E8B04B**、1.2倍・極太
 - ISSUEの紺帯のボタンは、金地をやめて他と同じ**白地＋紺文字**にそろえる（「1件」が目立つように）
 - 見本 corporate-mockup.html 更新済み。PC・スマホで確認し studio-progress.md に追記。公開・課金なし
+
+## 追加：ISSUE吹き出しの人物を4種類に（2026-10-30 6:20 Claude・代表依頼）
+
+全員「管理会社ご担当者」になっているので、吹き出しごとに立場を分け、水色の丸をイラスト人物に差し替える（イラストはClaudeが作成。GitHub `docs/design/assets/` の PNG 240×240、背景透過・円形）。
+
+| 吹き出し | 名前（14px・太字・紺） | 画像 |
+|---|---|---|
+| 「今の業者が手一杯」 | 不動産管理会社ご担当者様 | increin-avatar-kanri.png |
+| 「入居時のクレームが多い」 | 賃貸仲介会社ご担当者様 | increin-avatar-chukai.png |
+| 「手配先がばらばら」 | リフォーム会社ご担当者様 | increin-avatar-reform.png |
+| 「状況が見えにくい」 | オーナー様 | increin-avatar-owner.png |
+
+- 画像は 64×64 で表示（スマホも同じ）、alt は「（名前）のイラスト」
+- 見本 corporate-mockup.html 更新済み。PC・スマホで確認し studio-progress.md に追記。公開・課金なし
