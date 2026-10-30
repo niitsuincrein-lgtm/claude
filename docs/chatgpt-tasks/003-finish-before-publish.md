@@ -253,8 +253,8 @@
 - スマホは業務用→家庭用→値引きの縦並び
 - PC・スマホで確認し studio-progress.md に追記。公開・課金なし
 
-## 追加：トップSERVICEのカードにWHiTE.／FRESH.ロゴをさりげなく（2026-10-31 6:55 Claude・代表依頼）※ロゴ画像の受け取り待ち
+## 追加：トップSERVICEのカードにWHiTE.／FRESH.ロゴをさりげなく（2026-10-31 6:55 Claude・代表依頼）※ロゴ受領済み 7:00
 
 - 各カード本文の1行目、「SERVICE 01｜WHiTE. total cleaning」の行の**右端**に、そのブランドの正式ロゴ（日本語併記版）を**高さ40px程度**で小さく置く（見本 top-mockup.html の点線枠の位置）。写真の上には重ねない
-- ロゴ画像は代表から届き次第 GitHub `docs/design/assets/` に置く（logo-white.png／logo-fresh.png）。届くまで着手しない
+- ロゴ画像（代表の正式ロゴ・背景透過PNG）は GitHub `docs/design/assets/` に置いた。カードには**横型・紺**の `logo-white-yoko.png`／`logo-fresh-yoko.png` を高さ44pxで使う。ほかに縦型（`-tate`）と紺背景用の白抜き（`-white`）もあるので、今後フッターなどで必要なら使う
 - alt は「WHiTE.のロゴ」「FRESH.のロゴ」。スマホでも同じ位置（入らなければラベルの下）
