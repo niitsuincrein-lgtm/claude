@@ -246,3 +246,12 @@ WHiTE.FAQ完了：見出し行・24px説明・右紺ボタンと、薄灰#F1F5F8
 値引き帯完了：料金表下に幅1120pxの紺#142635帯、金#E8B04Bの「値引きのご案内」ラベルと、14px・#D3DEE7の「業務用・家庭用どちらも対象です」を配置。複数台割引・年間契約割引に金3px左線、2,000円引き／10,000円引きを金文字、その他の文言と金額を保持。スマホでは帯内の割引も縦並び。通常ライブで追加文の計算済み14px・rgb(211,222,231)を確認。
 
 PC1280px編集キャンバスでmain clientWidth=scrollWidth=1280、各表548px・同一top・行数9/4、紺帯1120px、PRICE内の横はみ出し要素0を確認。スマホ375px編集キャンバスでmain clientWidth=scrollWidth=375、表335px・縦順序・PRICE内はみ出し0、家庭用条件と値引き帯を目視確認。通常ライブPCでも等幅2列・全料金行492px・割引帯を確認。スマホ確認はSTUDIO編集キャンバス上の検証で、実機確認とは区別。変更前コピーとの比較でPRICE以外7セクションと共通ヘッダー／フッターは同一。PC料金表・割引帯・スマホ料金表／割引帯の画面証跡保存済み。追加依頼完了。公開・課金・新CMSモデル・LINE追加・通知先変更なし。
+
+
+## 2026-10-31 トップSERVICE正式ロゴ追加（日本時間、時刻未確認）
+
+003末尾「トップSERVICEのカードにWHiTE.／FRESH.ロゴをさりげなく」（blob c0ca5d6802731ec6141912b3bd37cfd8b53c1fab）と更新top-mockup（blob 727d823847d49aead30996b26b7d51bd09eb6470）を確認。代表指定の透過横型PNG logo-white-yoko.png（blob eeb4a98a33a04fbbc40b482e199a4a4bdd3b3aca）／logo-fresh-yoko.png（blob f50e3cbf51ecfc8beca6b35c7d6626f2bfa7d80c）をGitHubから取得してSTUDIOへアップロード完了。
+
+各カード本文先頭のSERVICE 01／02ブランド行を横並びにし、右端へ正式ロゴを高さ44px・横幅145.2px・object-fit:containで配置。写真には重ねず、altを「WHiTE.のロゴ」「FRESH.のロゴ」に設定。スマホ375pxでは指示書の許容どおりラベル下へ折り返して右寄せ、高さ44pxを維持。
+
+PC1280px編集キャンバスでmain clientWidth=scrollWidth=1280、ブランド行472px内に両ロゴ・高さ44px・画像読込を確認。通常ライブPCでも行右端とロゴ右端の座標一致、両ロゴ44pxを目視・寸法確認。375px編集キャンバスでmain clientWidth=scrollWidth=375、ブランド行287px・scrollWidth287px、SERVICE内横はみ出し0、2ロゴ読込・44px・ラベル下への配置を確認し画面証跡保存。スマホ検証は編集キャンバス上で実施、実機検証とは区別。変更前コピーとの比較で全文一致、SERVICE以外11セクションは同一、既存カードリンク/white・/freshを保持。料金・写真・ボタンを変更せず追加依頼完了。公開・課金・新CMSモデル・LINE追加・通知先変更なし。
