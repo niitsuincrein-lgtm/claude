@@ -49,3 +49,5 @@
 3. 【公開日・Claude/ChatGPT】お知らせ「Webサイトを公開しました」の日付を公開日に、プライバシーポリシーに制定日を入れる。サイト内のURL表記を https://increin.jp に統一。
 4. 【公開日】Search Console（ドメインプロパティ increin.jp、DNSのTXTで所有確認）、GA4、Googleビジネスプロフィールのウェブサイト欄を https://increin.jp に更新。
 5. 【任意】Google Workspace で info@increin.jp を作る場合は、MXレコード等を同じDNS画面で追加（Aレコードとは別に追加するので干渉しない）。
+
+- 2026-11-20 代表：STUDIO Personal プラン（年間契約）に切り替え済み。
